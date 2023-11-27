@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhruv Naik</h1>
-<h3 align="center">Full Stack web developer</h3>
+<h3 align="center">Aspiring Full Stack web developer</h3>
 
 
 <p align="left"> <a href="https://twitter.com/dhruvnaique" target="blank"><img src="https://img.shields.io/twitter/follow/dhruvnaique?logo=twitter&style=for-the-badge" alt="dhruvnaique" /></a> </p>
