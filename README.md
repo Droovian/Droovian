@@ -1,16 +1,12 @@
 <h1 align="center">Hi 👋, I'm Dhruv Naik</h1>
-<h3 align="center">Aspiring Full Stack web developer</h3>
+<h3 align="center">Learning Backend Development</h3>
 
 
 <p align="left"> <a href="https://twitter.com/dhruvnaique" target="blank"><img src="https://img.shields.io/twitter/follow/dhruvnaique?logo=twitter&style=for-the-badge" alt="dhruvnaique" /></a> </p>
 
-- 🔭 I’m currently working on **Portfolio**
-
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Express + Postgres**
 
 - 🤝 I’m looking for help with **Backend Web Development**
-
-- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **dhruvnaik21@gmail.com**
 
