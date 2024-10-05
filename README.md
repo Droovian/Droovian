@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/dhruvnaique" target="blank"><img src="https://img.shields.io/twitter/follow/dhruvnaique?logo=twitter&style=for-the-badge" alt="dhruvnaique" /></a> </p>
 
-- 🌱 I’m currently learning **Next JS**
+- 🌱 I’m currently learning **native dev**
 
 - 🤝 I’m interested in collaborative projects
 
